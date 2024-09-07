@@ -4,7 +4,7 @@
 The objective of this lab is to troubleshoot connectivity issues between **PC1** and **PC2** by identifying and fixing misconfigurations on the routers in the network. You have successfully completed the lab when **PC1** can successfully ping **PC2**.
 
 ## Network Topology
-![Network Topology](./path-to-image)
+![Network Topology](https://github.com/ro-drick/Troubleshooting-Static-Routes/blob/main/troubleshooting-static-routes.PNG)
 
 ### Network Overview:
 - **PC1**:
